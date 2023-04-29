@@ -1,0 +1,11 @@
+select {
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 14px;
+}
+
+option {
+    color: black;
+    border: none;
+}
